@@ -27,7 +27,7 @@
 | 5 | Stacks & Queues | Impl in C/Python | 8 problems | ⬜ |
 | 6 | Revision | Weak areas | Notes + fixes | ⬜ |
 
-🎯 **End Project:** CLI Text Editor in C  
+🎯 **End Project:** in C  
 
 ---
 
@@ -42,7 +42,7 @@
 | 5 | Trees | BST, Heap | Heapify impl | ⬜ |
 | 6 | Graphs | BFS, DFS, Dijkstra | Python impl | ⬜ |
 
-🎯 **End Project:** Network Packet Routing Simulator  
+🎯 **End Project:** Network 
 
 ---
 
@@ -57,7 +57,7 @@
 | 5 | Python DS | Pandas, NumPy | Dashboards | ⬜ |
 | 6 | DSA | Mixed practice | 20 Qs | ⬜ |
 
-🎯 **End Project:** Loan Default Prediction  
+🎯 **End Project:** Prediction  
 
 ---
 
@@ -72,7 +72,7 @@
 | 5 | Interviews | OS/CN/DSA | Mock | ⬜ |
 | 6 | Revision | DSA + CS | 50 Qs | ⬜ |
 
-🎯 **Final Project:** AI Resume Analyzer (NLP + Flask)
+🎯 **Final Project:** Resume Analyzer
 
 ---
 
